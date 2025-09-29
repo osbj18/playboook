@@ -1,6 +1,6 @@
 # playboook
 
-## Sten, sax, påse (rock_paper_scissors.py)
+## Sten, sax, påse (sten,sax,påse.py)
 
 Ett enkelt spel där du möter datorn i sten, sax eller påse – bäst av 3!
 
