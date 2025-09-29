@@ -73,7 +73,7 @@ Det här är ett enkelt program för att hantera en att-göra-lista i terminalen
 ### Så här kör du programmet:
 
 ```bash
-python todo.py
+python todolist.py
 ```
 
 ### Exempel på användning
